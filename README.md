@@ -3,10 +3,10 @@
 A simple interactive drum kit made with HTML, CSS, and JavaScript. Press keys or click the drums to play sounds!
 
 ## 🖼️ Screenshot
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## 🔗 Live Demo
-If you host it (optional):  
+If you host it:  
 [Click Here](https://yashdeep7.github.io/VirtualDrum/)
 
 ## 🛠️ Built With
